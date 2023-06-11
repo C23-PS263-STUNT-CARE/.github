@@ -6,13 +6,16 @@ Hi There! We are a team consisting of 6 individuals from various regions in Indo
    <summary align="center">More Information</summary>
 
 <h2 align="center">StuntCare</h2>
-<p align="center"><img src="https://github.com/C23-PS263-STUNT-CARE/design-app/assets/103315957/9520186b-d9c0-46ae-94de-3cb2889bc499"/></p>
+<p align="center"><img src="https://github.com/C23-PS263-STUNT-CARE/design-app/assets/103315957/9520186b-d9c0-46ae-94de-3cb2889bc499" width="200px"></p>
 
 Our stunting detection system is designed to provide early intervention and support for children at risk. By analyzing the seven key features, we can assess a child's growth patterns and compare them against established standards. This enables us to identify potential cases of stunting and take proactive measures to address them.
 
 ## Our Teams
-
+Our team operates with three divisions for efficient collaboration:
+The Machine Learning Division gathers real-time data on birth weight, birth length, body weight, body length, age, sex, and exclusive breastfeeding status and develops algorithms to optimize hotel ranking based on stunting detection, while the Mobile Development Division creates a user-friendly application interface for displaying the hotel ranking prototypes. These divisions work together, facilitated by the Cloud Computing Division, which provides data connectivity and infrastructure support. The goal is to enhance early detection of stunting in children and provide accurate hotel recommendations, ensuring their health and well-being.
+   
 ### Machine Learning Division
+   
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
 |M230DSX3446|Muhtarom Ahkam Maulana|[LinkedIn](https://www.linkedin.com/in/muhtaromahkam/) |
