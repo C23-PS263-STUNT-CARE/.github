@@ -1,12 +1,37 @@
-## Hi there 👋
+<h1 align="center"> C23-PS263-StuntCare </h1>
 
-<!--
+Hi There! We are a team consisting of 6 individuals from various regions in Indonesia. We have come together as part of the Bangkit program, initiated and organized by Google, Traveloka, Goto, and Dicoding. In collaboration with Traveloka, our team is currently working on creating a prototype application with a theme centered around Healthcare and Human Well-being. Our specific focus is on developing an early detection application for child stunting.
 
-Here are some ideas to get you started:**
+<details>
+   <summary align="center">More Information</summary>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center">StuntCare</h2>
+<p align="center"><img src="https://github.com/C23-PS263-STUNT-CARE/design-app/assets/103315957/9520186b-d9c0-46ae-94de-3cb2889bc499"/></p>
+
+Our stunting detection system is designed to provide early intervention and support for children at risk. By analyzing the seven key features, we can assess a child's growth patterns and compare them against established standards. This enables us to identify potential cases of stunting and take proactive measures to address them.
+
+## Our Teams
+
+### Machine Learning Division
+| Bangkit ID | Name | Social Media |
+|:----------:|:----:|--------------|
+|M230DSX3446|Muhtarom Ahkam Maulana|[LinkedIn](https://www.linkedin.com/in/muhtaromahkam/) |
+|M150DSY2152|Salma Atsila Shabiyya|[LinkedIn](https://www.linkedin.com/in/madotfx/) |
+
+### Cloud Computing Division
+| Bangkit ID | Name | Social Media |
+|:----------:|:----:|--------------|
+|C150DKX4320|Mohamad Nasihin Ngibad|[LinkedIn](https://www.linkedin.com/in/mohamad-nasihin-ngibad-b18479172/) |
+|C331DSX4840|Mochammad Nur 'Afifudin|[LinkedIn](https://www.linkedin.com/in/mochammad-nur-afifudin-2b033617a/)  |
+
+### Mobile Development Division
+| Bangkit ID | Name | Social Media |
+|:----------:|:----:|--------------|
+|A331DSX1046|Febi Arifin|[LinkedIn](https://www.linkedin.com/in/febiarifin/) |
+|A266DSX1042|Firmansyah Diana|[LinkedIn](https://www.linkedin.com/in/firmansyah-diana-24056b1bb/) |
+
+## Repository
+
+</details>
+
+<p align="right"> 파이팅! <br> C23-PS263 Teams. </p>
