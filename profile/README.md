@@ -41,7 +41,7 @@ The Machine Learning Division gathers real-time data on birth weight, birth leng
 1. [Machine Learning](https://github.com/C23-PS263-STUNT-CARE/Machine-Learning).
    
 ### Mobile Development
-1. [stuntcare-app-jetpack-compose](](https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose).
+1. [stuntcare-app-jetpack-compose](https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose).
 2. [stuntcare-app](https://github.com/C23-PS263-STUNT-CARE/StuntCareApp)
 
 </details>
