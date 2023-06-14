@@ -10,6 +10,14 @@ Hi There! We are a team consisting of 6 individuals from various regions in Indo
 
 Our stunting detection system is designed to provide early intervention and support for children at risk. By analyzing the seven key features, we can assess a child's growth patterns and compare them against established standards. This enables us to identify potential cases of stunting and take proactive measures to address them.
 
+<p align="center">
+   Download Now!
+   <br>
+   <a href="https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose/raw/master/app/release/download/v1.0.0/StuntCare.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+</p>
+
+
+
 ## Our Teams
 Our team operates with three divisions for efficient collaboration:
 The Machine Learning Division gathers real-time data on birth weight, birth length, body weight, body length, age, sex, and exclusive breastfeeding status and develops algorithms to optimize hotel ranking based on stunting detection, while the Mobile Development Division creates a user-friendly application interface for displaying the hotel ranking prototypes. These divisions work together, facilitated by the Cloud Computing Division, which provides data connectivity and infrastructure support. The goal is to enhance early detection of stunting in children and provide accurate hotel recommendations, ensuring their health and well-being.
