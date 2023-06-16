@@ -11,14 +11,10 @@ Hi There! We are a team consisting of 6 individuals from various regions in Indo
 Our stunting detection system is designed to provide early intervention and support for children at risk. By analyzing the seven key features, we can assess a child's growth patterns and compare them against established standards. This enables us to identify potential cases of stunting and take proactive measures to address them.
 
 <p align="center">
-   Download Now!
+   Download Here!
    <br>
-   <a href="https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose/raw/master/release/download/v1.0.0/StuntCare.apk">
-      <img src="https://github.com/C23-PS263-STUNT-CARE/.github/assets/103315957/c8290c11-f83e-4e78-b367-97b4bceb1724" width="40px"/></a>
+   <a href="release/download/v1.0.0/StuntCare.apk"><img src="https://github.com/C23-PS263-STUNT-CARE/.github/assets/103315957/c8290c11-f83e-4e78-b367-97b4bceb1724" width="40px"/></a>
 </p>
-
-
-
 
 ## Our Teams
 Our team operates with three divisions for efficient collaboration:
