@@ -13,7 +13,7 @@ Our stunting detection system is designed to provide early intervention and supp
 <p align="center">
    Download Here!
    <br>
-   <a href="https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose/raw/master/release/download/v1.0.0/StuntCare."><img src="https://github.com/C23-PS263-STUNT-CARE/.github/assets/103315957/c8290c11-f83e-4e78-b367-97b4bceb1724" width="40px" /></a>
+   <a href="https://github.com/C23-PS263-STUNT-CARE/StuntCareApp-Jetpack-Compose/raw/master/release/download/v1.0.0/StuntCare.apk"><img src="https://github.com/C23-PS263-STUNT-CARE/.github/assets/103315957/c8290c11-f83e-4e78-b367-97b4bceb1724" width="40px" /></a>
 </p>
 
 ## Our Teams
