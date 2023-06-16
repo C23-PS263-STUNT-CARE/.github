@@ -18,6 +18,7 @@ Our stunting detection system is designed to provide early intervention and supp
 
 
 
+
 ## Our Teams
 Our team operates with three divisions for efficient collaboration:
 The Machine Learning Division gathers real-time data on birth weight, birth length, body weight, body length, age, sex, and exclusive breastfeeding status and develops algorithms to optimize hotel ranking based on stunting detection, while the Mobile Development Division creates a user-friendly application interface for displaying the hotel ranking prototypes. These divisions work together, facilitated by the Cloud Computing Division, which provides data connectivity and infrastructure support. The goal is to enhance early detection of stunting in children and provide accurate hotel recommendations, ensuring their health and well-being.
